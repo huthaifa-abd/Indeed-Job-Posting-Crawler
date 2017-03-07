@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indeed-Plugin", "Ineed-Plugin\Indeed-Plugin.csproj", "{0E5E5E53-25DD-41CB-AE36-491F76BF71EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E5E5E53-25DD-41CB-AE36-491F76BF71EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5E5E53-25DD-41CB-AE36-491F76BF71EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5E5E53-25DD-41CB-AE36-491F76BF71EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5E5E53-25DD-41CB-AE36-491F76BF71EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
