@@ -4,9 +4,9 @@ A basic crawler solution developed in c# that allows massive collection of job p
 
  * Parallel Data Processing
  * Xpath Based Matching
- * Big Data Compatable
+ * Big Data Compatible
 
-Please note : This solution is best used with our Hadoop MapReduce application to get matching rates for different candidates feel free to checkout the link below ,
+Please note : This solution is best used with our Hadoop Map Reduce application to get matching rates for different candidates feel free to checkout the link below ,
 
 https://github.com/huthaifa-abd/Talent-Recommendation-Engine-Using-Hadoop
 
@@ -22,6 +22,6 @@ Hope you find this solution useful :+1:
 ### Future Updates
 
  * General Optimizations
- * Seprate input for candidate and job postings
+ * Separate input for candidate and job postings
  * Unit Testing
  * Add more cool features .
